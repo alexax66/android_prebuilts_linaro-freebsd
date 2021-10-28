@@ -1,1 +1,1 @@
-# android_prebuilts_linaro for FreeBSD
+# linaro toolchain 7.5.0-2019.12 for FreeBSD
